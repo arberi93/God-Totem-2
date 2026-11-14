@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GNG",
+    "DTR",
+    "GLG"
+  ],
+  "key": {
+    "G": "minecraft:gold_block",
+    "N": "minecraft:netherite_ingot",
+    "D": "minecraft:diamond",
+    "T": "minecraft:totem_of_undying",
+    "R": "minecraft:redstone",
+    "L": "minecraft:lapis_block"
+  },
+  "result": {
+    "id": "godtotem:god_totem",
+    "count": 1
+  }
+}

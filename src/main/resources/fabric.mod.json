@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "godtotem",
+  "version": "${version}",
+  "name": "God Totem",
+  "description": "A powerful upgrade of the Totem of Undying. Two uses, huge buffs.",
+  "authors": [
+    "Your Name"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.godtotem.GodTotemMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
