@@ -22,9 +22,9 @@ Gold Block | Lapis Block      | Gold Block
 
 ## Building without installing anything
 
-1. Make a free GitHub account and create a new repository.
-2. Upload all of these files and folders (including the hidden `.github` folder).
-3. Open the **Actions** tab, wait for "Build mod" to finish, then download `god-totem-jar` from the run page.
-4. Unzip it and put the `.jar` in your `.minecraft/mods` folder together with Fabric API.
+#Installing the mod
+
+...
+Go to the actions tab press create.yml and scroll down you will see the god-totem.jar
 
 The texture at `src/main/resources/assets/godtotem/textures/item/god_totem.png` is a placeholder. Replace it with your own 16x16 PNG with the same name.
